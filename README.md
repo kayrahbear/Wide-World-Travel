@@ -10,3 +10,5 @@ Here's a list of some things to include in your app in the appropriate spots:
 + A call to the data folder for `guides.json` using `$http`
 + Use the `$q` service to wrap your http call in a promise
 + `$scope.books = <your array of guide books data>`
+
+### Dependencies for this project can be found in `package.json` & `bower.json`
